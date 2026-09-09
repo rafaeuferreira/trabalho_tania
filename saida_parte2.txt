@@ -1,0 +1,20 @@
+Expressão original : 3 + 4 * 2
+Expressão em RPN   : 3.0 4.0 2.0 * +
+Resultado           : 11.0
+------------------------------------------------
+Expressão original : (3 + 4) * 2
+Expressão em RPN   : 3.0 4.0 + 2.0 *
+Resultado           : 14.0
+------------------------------------------------
+Expressão original : 10 / 2 - 3
+Expressão em RPN   : 10.0 2.0 / 3.0 -
+Resultado           : 2.0
+------------------------------------------------
+Expressão original : 2.5 + 3.75 * 2
+Expressão em RPN   : 2.5 3.75 2.0 * +
+Resultado           : 10.0
+------------------------------------------------
+Expressão original : (1.5 + 2.5) / (4 - 2)
+Expressão em RPN   : 1.5 2.5 + 4.0 2.0 - /
+Resultado           : 2.0
+------------------------------------------------
